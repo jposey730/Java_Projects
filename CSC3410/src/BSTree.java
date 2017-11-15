@@ -11,7 +11,7 @@ linked list to build the binary tree on.
 that allow you to add nodes, traverse the unordered tree and traverse the ordered tree.  The actual 
 driver class BSTree, creates an Arraylist of 100 randomly generated integers from 1 to 99.  This
 arraylist is then transferred to the binary tree, after which the tree is traversed.  Once this is printed,
-the tree is then traversed in order.
+the tree is then traversed in order. You will also need Binarytrees.java.
 */
 import java.util.ArrayList;
 import java.util.Random;
