@@ -1,3 +1,6 @@
+//This was an assignment for data structure.  It was basically an assignment to create 
+//a program to find the largest and smallest numbers in an array.
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
