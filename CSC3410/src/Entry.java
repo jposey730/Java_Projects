@@ -1,3 +1,5 @@
+// This is the entry class for the phondir program.  This program was created in order to gain more experience with
+//Linked Lists
 public class Entry{
 	//all private instance variables
 	private String firstName;
