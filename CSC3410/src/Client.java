@@ -1,3 +1,6 @@
+//This is the Client class for a socket programming assignment I did for Networks.  You also need Server.js to run example.
+// When you run both files make sure you run the Server file first.
+
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintStream;
