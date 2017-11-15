@@ -1,3 +1,5 @@
+//This is the card class I created.  The Deck class is made up of 52 of the Card object.
+
 public class Card{
   
    public final static int Spade = 0;
