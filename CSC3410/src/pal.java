@@ -1,3 +1,4 @@
+//This is just another palindrome program I made.  This time I wanted to get user input.
 import java.util.Scanner;
 
 public class pal {
