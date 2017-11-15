@@ -1,4 +1,4 @@
-
+//Practice with Linkedlists
 public class Link {
 public String bookName;
 public int millionsSold;
